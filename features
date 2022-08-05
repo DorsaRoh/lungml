@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" id="particles-js">
+<head>
+    <meta charset="UTF-8">
+    <title>About TumorCast</title>
+    <link rel="stylesheet" href="../static/aboutme.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="icon" href="../static/icon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,200;1,600&display=swap" rel="stylesheet">
+
+    <script src="static/particles.js"></script>
+    <script src="../static/app.js"></script>
+</head>
+<body>
+    <!---About Me-->
+    <section>
+        <div class="card fade-right">
+            <h1>What is TumorCast?</h1>
+            <p>Tumor cast is an application that allows images of Pulmonary Chest X-Ray's
+                to be used to detect if a patient <br>
+                has manifestations of tuberculosis using computer vision.</p>
+        </div>
+        <div class="card card2 fade-left">
+            <h1>What is Tuberculosis?</h1>
+            <p>Tuberculosis is a contagious infection that usually
+            attacks your lungs, and can also spread to other parts of your body.
+            In the 20th century tuberculosis was the leading cause of deaths in the United
+            States. Learn more <a href="https://www.mayoclinic.org/diseases-conditions/tuberculosis/symptoms-causes/syc-20351250"
+                target="_blank">here</a></p>
+        </div>
+
+    </section>
+    <a href="/">
+            <button id="backButton" class="fade-left">
+            &#8592;
+        </button>
+    </a>
+</body>
+</html>
