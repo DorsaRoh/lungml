@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" id="particles-js">
+<head>
+    <meta charset="UTF-8">
+    <title>Predict</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="icon" href="../static/icon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,200;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/predictstyles.css">
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="https://unpkg.com/@tensorflow/tfjs-automl"></script>
+    <script src="../static/particles.js"></script>
+    <script src="../static/predict.js"></script>
+
+</head>
+<body>
+    <section class="center">
+        <div class="predictSection fade-left">
+            <h1 class="title">Choose Image</h1>
+            <label for="file-field" class="custom-file-upload">
+                Custom Upload
+            </label> 
+            <input type="file" id="file-field" onchange="previewImage(event)" class="title" hidden>   
+            <img src="../static/placementimg.png" id="image-field" crossorigin="anonymous" width="250px" height="250px" class="title" alt="Image Preview">
+            <button id="predict" onclick="run()" class="title">Predict</button>
+            <h1 id="result">Results</h1>
+        </div>
+    </section>
+
+    <a href="/">
+        <button id="backButton" class="fade-left">
+         &#8592;
+        </button>
+    </a>
+</body>
+</html>
