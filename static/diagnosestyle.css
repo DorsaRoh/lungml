@@ -1,0 +1,149 @@
+#particles-js{
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+}
+
+html {
+    font-family: "Nunito", sans-serif;
+    text-shadow: 0 0 10px #D2AFFF;
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url("https://github.com/DorsaRoh/test3/blob/main/backgropr.png?raw=true") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1{
+    font-size: 50px;
+    text-shadow: 0 0 10px #D2AFFF;
+    font-family: "Nunito", sans-serif;
+}
+
+
+
+
+#predict {
+    font-family: "Nunito";
+    text-shadow: 0 0 10px #FFFFFF;
+    font-weight: 500;
+    width: 220px;
+    border: 3px solid white;
+    outline: none;
+    color: white;
+    background-color: #6369D3;
+    border-radius: 50px;
+    height: 50px;
+    margin-top: 0px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#image-field{
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+#result {
+    font-size: 35px;
+    text-shadow: 0 0 10px #D2AFFF;
+    font-family: "Nunito", sans-serif;
+}
+
+
+.largerDiv {
+    width: 100%;
+    left: 100px;
+    text-align: center;
+}
+
+
+.center {
+    text-align: center;
+    
+}
+
+.center .predictSection {
+    background-color: #F1E6FF;
+    width: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    /* left: 1000px; */
+    top: 100px;
+    left: 40%;
+    border-radius: 50px;
+}
+
+.custom-file-upload {
+    text-align: center;
+    position: static;
+    position: relative;
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #6369D3;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    border: 3px solid white;
+    
+}
+
+#backButton {
+    font-family: "Nunito";
+    font-weight: 500;
+    font-size: 25px;
+    font-weight: 400;
+    width: 65px;
+    height: 65px;
+    border: 3px solid white;
+    outline: none;
+    color: black;
+    background-color: #EEEAFF;
+    border-radius: 50px;
+    margin-top: 0px;
+    text-align: center;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+
+#backButton:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.predictSection:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.fade-left {
+    animation: fadeIn 4s;
+}
+
+@keyframes fadeIn {
+    0% {
+       opacity: 0;
+       transform: translateX(200px);
+    }
+    100% {
+       opacity: 1;
+       transform: translateX(0);
+    }
+  } 
