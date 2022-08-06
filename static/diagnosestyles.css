@@ -19,7 +19,6 @@ body {
 
 h1{
     font-size: 50px;
-    text-shadow: 0 0 10px #D2AFFF;
     font-family: "Nunito", sans-serif;
 }
 
@@ -34,7 +33,7 @@ h1{
     border: 3px solid white;
     outline: none;
     color: white;
-    background-color: #6369D3;
+    background-color: #89CFF0;
     border-radius: 50px;
     height: 50px;
     margin-top: 0px;
@@ -49,7 +48,6 @@ h1{
 
 #result {
     font-size: 35px;
-    text-shadow: 0 0 10px #D2AFFF;
     font-family: "Nunito", sans-serif;
 }
 
@@ -67,7 +65,7 @@ h1{
 }
 
 .center .predictSection {
-    background-color: #F1E6FF;
+    background-color: #89CFF0;
     width: 400px;
     padding-left: 50px;
     padding-right: 50px;
@@ -91,7 +89,7 @@ h1{
     padding-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    background-color: #6369D3;
+    background-color: #89CFF0;
     border-radius: 50px;
     color: white;
     cursor: pointer;
