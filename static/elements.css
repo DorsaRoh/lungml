@@ -7,6 +7,7 @@ html {
 body {
     margin: 0px;
     padding: 0px;
+    background: url("https://github.com/DorsaRoh/test3/blob/main/backgropr.png?raw=true") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -50,7 +51,7 @@ section {
 .card h1 {
     margin-top: 0px;
     font-size: 20px;
-    text-shadow: 0 0 10px #89CFF0;
+    text-shadow: 0 0 10px #D2AFFF;
 }
 
 /* On mouse-over, add a deeper shadow */
