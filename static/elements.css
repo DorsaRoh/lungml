@@ -1,7 +1,6 @@
 html {
     font-family: "Poppins", sans-serif;
     color: white;
-
 }
 
 body {
@@ -26,7 +25,6 @@ section {
     margin: 0;
     position: absolute;
     top: 100px;
-
 }
 
 .card {
@@ -45,7 +43,6 @@ section {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 
   transition: 0.3s;
-
 }
 
 .card h1 {
@@ -76,7 +73,6 @@ section {
     position: absolute;
     top: 10px;
     left: 10px;
-
 }
 
 #backButton:hover {
