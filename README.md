@@ -25,4 +25,3 @@ The first challenge ran into was the backend. Through the use of Flask for the b
 ## 🏅 Accomplishments for LungML
 LungML is proud of to have created such an accurate model in TensorFlow. Initially, there was very little experience with deep learning and TensorFlow prior to the hackathon, so creating a machine learning model that is accurate is an immense accomplishment. Additionally, LungML is proud to have been created in fighting the battle against pulmonary disease, with the potential to help save the lives of many people around the world.
 
-## NOTE: This was my team's original project, but we decided to abandon it initially. We moved our work towards a pitch, but then disbanded as I wanted to pursue the prototype and my partner wanted to continue the pitch. I decided to continue this project as I didn't want to give it up! This is the reason for the similar theme and prompt.
