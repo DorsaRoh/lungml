@@ -1,4 +1,4 @@
-//# LungML
+# LungML
 ## 💡 Inspiration
 The overarching idea was sparked by the infamous fight against lung cancer and lung disease. Not only have such maladies killed millions of individuals worldwide, but they have also indirectly harmed our collective well-being as a species. Indeed, vulnerable populations, as well as ill patients, can no longer meet with their doctors at their typical hospital, due to the risks such contact poses in terms of the ongoing pandemic. In addition, physicians can only identify the risk of lung disease with a bewildering and terrifying 30% accuracy, despite lung-related illnesses being responsible for millions of deaths annually. Not to mention, lung cancer is the leading cause of death among all types of cancer. Despite acquiring over 4 million cases per year, and occurring with the subtlest of symptoms that, in reality, require immediate medical attention, most patients simply cannot access the help they need.
 
