@@ -2,6 +2,8 @@
 
 Using Machine Learning to Diagnose Lung Cancer
 
+https://lungml.netlify.app/
+
 ## Awards 
 
 3x hackathon award winner.
