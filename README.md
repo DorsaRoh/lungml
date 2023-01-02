@@ -7,7 +7,7 @@ Using Machine Learning to Diagnose Lung Cancer
 3x hackathon award winner.
 
 <ul>
-  <li>Second Place Overall at Cognition Hackathon (top 2 out of 1000+ participants)</li>
+  <li>Second Place Overall at Cognition Hackathon (top 2 out of 1000+ participants)
 </ul>
   <ul><li>Healthcare Track Winner + Best Girl's Team at Cognition Hackathon </ul></li>
   <ul>
