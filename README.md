@@ -8,7 +8,6 @@ Using Machine Learning to Diagnose Lung Cancer
 
 <ul>
   <li>Second Place Overall at Cognition Hackathon (top 2 out of 1000+ participants)
-</ul>
   <ul><li>Healthcare Track Winner + Best Girl's Team at Cognition Hackathon </ul></li>
   <ul>
   <li>Best Design at NeoHacks 2.0</li>
