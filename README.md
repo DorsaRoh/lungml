@@ -1,6 +1,6 @@
 # LungML
 
-Using Machine Learning to Diagnose Lung Cancer
+Using Machine Learning to Diagnose Lung Cancer using Pulmonary X-Ray Images
 
 ## Awards 
 
