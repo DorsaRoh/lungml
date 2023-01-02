@@ -2,8 +2,6 @@
 
 Using Machine Learning to Diagnose Lung Cancer
 
-https://lungml.netlify.app/
-
 ## Awards 
 
 3x hackathon award winner.
@@ -14,6 +12,11 @@ https://lungml.netlify.app/
   <li>Best Design at NeoHacks 2.0</li>
   <li>First Place Overall + Wolfram Award at VividHacks</li>
   </ul>
+  
+  
+## Hosted Website
+You can view the hosted version of the website here: https://lungml.netlify.app/. Please note that some functions may not be fully operational due to memory allocation and storage issues.
+  
   
 # About
 
